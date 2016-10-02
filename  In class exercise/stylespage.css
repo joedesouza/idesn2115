@@ -1,0 +1,22 @@
+	h1 {
+		color: #333;
+	}
+
+	body {
+		background-color: black;
+	}
+
+	p {
+		font-size: 18px;
+		font-family: helvetica;
+		line-height: 26px;
+		color: black;
+
+	}
+
+	h2 {
+		font-family: helvetica, arial, san-serif;
+		color: red;
+		outline-color: black;
+
+	}
