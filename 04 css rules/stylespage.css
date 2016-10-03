@@ -1,19 +1,5 @@
 	body {
-		background-color: #000;		
-	}
-
-	body#conf {
-		background-color: #ff6600;
-		text-align: center;
-		margin-left: auto;
-		margin-right: auto;		
-	}
-
-	body#brec {
-		background-color: #ccffcc;
-		text-align: left;
-		margin-left: 200px;
-		margin-right: auto;		
+		background-color: #fff;		
 	}
 
 	table {
@@ -23,17 +9,17 @@
 	}
 
 	p#one {	
-		font-family: helvetica, arial, san-serif; 
-		font-weight: light;
+		font-family: futura, arial, san-serif; 
+		font-weight: medium;
 		font-size: 20px;
-		color:#cc0033;
+		color:#000;
 	}
 
 	p#back {	
 		font-family: helvetica, arial, san-serif; 
 		font-weight: light;
 		font-size: 20px;
-		color:#cc0033;
+		color:#000;
 	}
 
 	tr {
@@ -52,14 +38,14 @@
 	}
 
 	td#logo {
-		font-family: helvetica, arial, san-serif; 
-		font-weight: light;
+		font-family: futura, arial, san-serif; 
+		font-weight: medium;
 		font-size: 72px;
 		color: ;
 	}
 	td#mail {
-		font-family: helvetica, arial, san-serif; 
-		font-weight: light;
+		font-family: futura, arial, san-serif; 
+		font-weight: medium;
 		font-size: 24px;
 	}
 
@@ -79,12 +65,12 @@
 	}
 
 	a:link {
-    	color: #cc0033;
+    	color: #000;
     	text-decoration: none;
 	}
 
 	a:visited {
-		color: #cc0033;
+		color: #000;
 	}
 
 	a:hover {
@@ -92,56 +78,12 @@
 	}
 
 	a:active {
-		color: #cc0033;
+		color: #000;
 	}
 	div {
 		text-align: center;
 
 	}
-
-	h3, h2, h1#conf {
-		color: #99ffff;
-	}
-
-	h3#rec, h2#rec, h1#rec {
-		color: #333366;
-	}
-
-	th#one {
-
-		width: 100px;
-	}
-
-	th#two {
-
-		width: 250px;
-	}
-	
-	th#three {
-
-		width: 150px;
-	}
-
-	tr#tbcon {
-
-		height: 25px;
-	}
-
-	table#conf {
-
-		text-align: left;
-		margin-left: auto;
-		margin-right: auto;
-	}
-
-	input[type=text] {
-    
-    background-color: #ffffcc;
-    color: black;
-	
-	}
-
-	
 
 	
 
