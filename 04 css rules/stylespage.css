@@ -9,6 +9,13 @@
 		margin-right: auto;		
 	}
 
+	body#brec {
+		background-color: #cccccc;
+		text-align: left;
+		margin-left: 300;
+		margin-right: auto;		
+	}
+
 	table {
 		text-align: center;
 		margin-left: auto;
