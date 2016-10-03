@@ -141,6 +141,11 @@
 		margin-right: auto;
 	}
 
+	input[type=text] {
+    background-color: #000;
+    color: white;
+}
+
 	
 
 	
