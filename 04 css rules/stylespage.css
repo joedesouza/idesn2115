@@ -2,6 +2,13 @@
 		background-color: #000;		
 	}
 
+	body#conf {
+		background-color: #ccffff;
+		text-align: center;
+		margin-left: auto;
+		margin-right: auto;		
+	}
+
 	table {
 		text-align: center;
 		margin-left: auto;
@@ -83,6 +90,37 @@
 	div {
 		text-align: center;
 
+	}
+
+	h3, h2, h1#conf {
+		color: #aa0044;
+	}
+
+	th#one {
+
+		width: 100px;
+	}
+
+	th#two {
+
+		width: 250px;
+	}
+	
+	th#three {
+
+		width: 150px;
+	}
+
+	tr#tbcon {
+
+		height: 25px;
+	}
+
+	table#conf {
+
+		text-align: center;
+		margin-left: auto;
+		margin-right: auto;
 	}
 
 	
