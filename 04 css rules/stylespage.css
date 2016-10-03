@@ -2,6 +2,20 @@
 		background-color: #fff;		
 	}
 
+	body#conf {
+		background-color: #ffcc99;
+		text-align: center;
+		margin-left: auto;
+		margin-right: auto;		
+	}
+
+	body#brec {
+		background-color: #ccffff;
+		text-align: left;
+		margin-left: 100;
+		margin-right: auto;		
+	}
+
 	table {
 		text-align: center;
 		margin-left: auto;
@@ -10,16 +24,23 @@
 
 	p#one {	
 		font-family: futura, arial, san-serif; 
-		font-weight: medium;
+		font-weight: light;
 		font-size: 20px;
-		color:#000;
+		color:#cc0033;
 	}
 
 	p#back {	
-		font-family: helvetica, arial, san-serif; 
+		font-family: futura, arial, san-serif; 
 		font-weight: light;
 		font-size: 20px;
-		color:#000;
+		color:#cc0033;
+	}
+
+	p#conf {	
+		font-family: garamond, arial, san-serif; 
+		font-weight: light;
+		font-size: 16px;
+		color:#blue;
 	}
 
 	tr {
@@ -39,13 +60,13 @@
 
 	td#logo {
 		font-family: futura, arial, san-serif; 
-		font-weight: medium;
+		font-weight: light;
 		font-size: 72px;
 		color: ;
 	}
 	td#mail {
 		font-family: futura, arial, san-serif; 
-		font-weight: medium;
+		font-weight: light;
 		font-size: 24px;
 	}
 
@@ -65,12 +86,12 @@
 	}
 
 	a:link {
-    	color: #000;
+    	color: #cc0033;
     	text-decoration: none;
 	}
 
 	a:visited {
-		color: #000;
+		color: #cc0033;
 	}
 
 	a:hover {
@@ -78,11 +99,46 @@
 	}
 
 	a:active {
-		color: #000;
+		color: #cc0033;
 	}
 	div {
 		text-align: center;
 
+	}
+
+	h3, h2 {
+		color: #aa0044;
+	}
+
+	h3#conf, h2#conf, h1#conf{
+		color: #000033;
+	}
+
+	th#one {
+
+		width: 100px;
+	}
+
+	th#two {
+
+		width: 250px;
+	}
+	
+	th#three {
+
+		width: 150px;
+	}
+
+	tr#tbcon {
+
+		height: 25px;
+	}
+
+	table#conf {
+
+		text-align: center;
+		margin-left: auto;
+		margin-right: auto;
 	}
 
 	
