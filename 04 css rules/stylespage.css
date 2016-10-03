@@ -9,6 +9,13 @@
 		margin-right: auto;		
 	}
 
+	body#brec {
+		background-color: #ccffcc;
+		text-align: left;
+		margin-left: 200px;
+		margin-right: auto;		
+	}
+
 	table {
 		text-align: center;
 		margin-left: auto;
@@ -96,6 +103,10 @@
 		color: #99ffff;
 	}
 
+	h3#rec, h2#rec, h1#rec {
+		color: #cc3333;
+	}
+
 	th#one {
 
 		width: 100px;
@@ -129,6 +140,8 @@
     color: black;
 	
 	}
+
+	
 
 	
 
